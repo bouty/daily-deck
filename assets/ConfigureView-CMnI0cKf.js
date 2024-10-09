@@ -1,0 +1,1 @@
+import{d as o,c as n,a as r,o as t}from"./index-Dxx3KIvS.js";const l=o({__name:"ConfigureView",setup(a){return(s,e)=>(t(),n("div",null,e[0]||(e[0]=[r("h2",null,"Configure Your Deck",-1)])))}});export{l as default};
